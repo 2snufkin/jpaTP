@@ -1,0 +1,4 @@
+# Project exclude paths
+/jpaTP-ear/target/
+/jpaTP-ejb/target/
+/jpaTP-web/target/
